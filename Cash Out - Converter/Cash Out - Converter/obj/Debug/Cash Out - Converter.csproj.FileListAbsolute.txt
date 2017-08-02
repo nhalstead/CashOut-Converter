@@ -1,0 +1,9 @@
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\bin\Debug\cash-out-converter.exe.config
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\obj\Debug\Cash Out - Converter.csprojResolveAssemblyReference.cache
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\obj\Debug\Cash_Out___Converter.Form1.resources
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\obj\Debug\Cash_Out___Converter.Properties.Resources.resources
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\obj\Debug\Cash Out - Converter.csproj.GenerateResource.Cache
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\bin\Debug\cash-out-converter.exe
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\bin\Debug\cash-out-converter.pdb
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\obj\Debug\cash-out-converter.exe
+C:\Users\Noah Halstead\Programming\Windows\Visual Studio 2013\Cash Out - Converter\Cash Out - Converter\obj\Debug\cash-out-converter.pdb
